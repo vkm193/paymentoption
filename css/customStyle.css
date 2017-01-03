@@ -1,0 +1,27 @@
+.clearfield{
+	cursor: pointer;
+}
+
+.header-container-fluid{
+	padding-right: 30px!important;
+	padding-left: 30px!important;
+}
+
+.no-decoration{
+	text-decoration: none!important;
+}
+.heading-tagline{
+	text-align:center; 
+}
+
+.clearer{
+	top: -25px!important;
+    float: right!important;
+    cursor: pointer!important;
+}
+.paging_full_numbers a.paginate_button:hover {
+    color: #428bca !important;
+}
+.paging_full_numbers a.paginate_active:hover {
+    color: #428bca !important;
+}
